@@ -35,11 +35,10 @@
     "expiresAt": 1773365951468,
     "votes": {
       "favor": [
-        "65"
-      ],
-      "against": [
+        "65",
         "76"
       ],
+      "against": [],
       "withhold": []
     }
   }
