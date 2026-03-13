@@ -1,5 +1,17 @@
 [
   {
+    "id": 1773362066677,
+    "title": "Testing",
+    "creator": "5",
+    "threshold": "1/2",
+    "status": "open",
+    "votes": {
+      "favor": [],
+      "against": [],
+      "withhold": []
+    }
+  },
+  {
     "id": 1773360985748,
     "title": "test vote",
     "creator": "5",
