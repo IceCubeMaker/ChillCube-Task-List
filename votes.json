@@ -1,45 +1,50 @@
-[
-  {
-    "id": 1773362066677,
-    "title": "Testing",
-    "creator": "5",
-    "threshold": "1/2",
-    "status": "closed",
-    "votes": {
-      "favor": [
-        "5"
-      ],
-      "against": [],
-      "withhold": []
+{
+  "polls": [
+    {
+      "id": 1773362066677,
+      "title": "Testing",
+      "creator": "5",
+      "threshold": "1/2",
+      "status": "closed",
+      "votes": {
+        "favor": [
+          "5"
+        ],
+        "against": [],
+        "withhold": []
+      }
+    },
+    {
+      "id": 1773360985748,
+      "title": "test vote",
+      "creator": "5",
+      "threshold": "1/2",
+      "status": "closed",
+      "votes": {
+        "favor": [],
+        "against": [],
+        "withhold": []
+      }
+    },
+    {
+      "id": 1773362351468,
+      "title": "Just Further Testing the Voting",
+      "creator": "65",
+      "threshold": "1/2",
+      "status": "open",
+      "createdAt": 1773362351468,
+      "expiresAt": 1773365951468,
+      "votes": {
+        "favor": [
+          "65",
+          "76"
+        ],
+        "against": [],
+        "withhold": []
+      }
     }
-  },
-  {
-    "id": 1773360985748,
-    "title": "test vote",
-    "creator": "5",
-    "threshold": "1/2",
-    "status": "closed",
-    "votes": {
-      "favor": [],
-      "against": [],
-      "withhold": []
-    }
-  },
-  {
-    "id": 1773362351468,
-    "title": "Just Further Testing the Voting",
-    "creator": "65",
-    "threshold": "1/2",
-    "status": "open",
-    "createdAt": 1773362351468,
-    "expiresAt": 1773365951468,
-    "votes": {
-      "favor": [
-        "65",
-        "76"
-      ],
-      "against": [],
-      "withhold": []
-    }
+  ],
+  "sessions": {
+    "5": 1773362862657
   }
-]
+}
