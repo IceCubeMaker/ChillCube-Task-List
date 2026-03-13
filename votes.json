@@ -4,7 +4,7 @@
     "title": "test vote",
     "creator": "5",
     "threshold": "1/2",
-    "status": "open",
+    "status": "closed",
     "votes": {
       "favor": [],
       "against": [],
