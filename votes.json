@@ -1,6 +1,20 @@
 {
   "polls": [
     {
+      "id": 1773425125491,
+      "title": "32x32 (for) vs 16x16 (against) for characters",
+      "creator": "1",
+      "threshold": "1/2",
+      "status": "open",
+      "createdAt": 1773425125491,
+      "expiresAt": 1773426925491,
+      "votes": {
+        "favor": [],
+        "against": [],
+        "withhold": []
+      }
+    },
+    {
       "id": 1773413538076,
       "title": "Ketchup vs Mayo",
       "creator": "1",
