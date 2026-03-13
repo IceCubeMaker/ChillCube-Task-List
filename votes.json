@@ -24,5 +24,19 @@
       "against": [],
       "withhold": []
     }
+  },
+  {
+    "id": 1773362351468,
+    "title": "Just Further Testing the Voting",
+    "creator": "65",
+    "threshold": "1/2",
+    "status": "open",
+    "createdAt": 1773362351468,
+    "expiresAt": 1773365951468,
+    "votes": {
+      "favor": [],
+      "against": [],
+      "withhold": []
+    }
   }
 ]
