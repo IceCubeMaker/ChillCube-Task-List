@@ -36,7 +36,9 @@
     "votes": {
       "favor": [],
       "against": [],
-      "withhold": []
+      "withhold": [
+        "65"
+      ]
     }
   }
 ]
