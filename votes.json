@@ -34,11 +34,11 @@
     "createdAt": 1773362351468,
     "expiresAt": 1773365951468,
     "votes": {
-      "favor": [
-        "65"
-      ],
+      "favor": [],
       "against": [],
-      "withhold": []
+      "withhold": [
+        "65"
+      ]
     }
   }
 ]
