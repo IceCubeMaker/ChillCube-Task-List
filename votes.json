@@ -1,20 +1,6 @@
 {
   "polls": [
     {
-      "id": 1773364732776,
-      "title": "Pineapple on Pizza",
-      "creator": "6",
-      "threshold": "1/2",
-      "status": "open",
-      "createdAt": 1773364732776,
-      "expiresAt": 1773368332776,
-      "votes": {
-        "favor": [],
-        "against": [],
-        "withhold": []
-      }
-    },
-    {
       "id": 1773362066677,
       "title": "Testing",
       "creator": "5",
@@ -66,7 +52,7 @@
   ],
   "sessions": {
     "1": 1773364676550,
-    "3": 1773364691705,
+    "3": 1773364736907,
     "4": 1773364646648,
     "6": 1773364723910
   }
