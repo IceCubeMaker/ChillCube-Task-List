@@ -37,7 +37,9 @@
       "favor": [
         "65"
       ],
-      "against": [],
+      "against": [
+        "76"
+      ],
       "withhold": []
     }
   }
