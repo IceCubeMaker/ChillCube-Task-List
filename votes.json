@@ -6,7 +6,9 @@
     "threshold": "1/2",
     "status": "open",
     "votes": {
-      "favor": [],
+      "favor": [
+        "5"
+      ],
       "against": [],
       "withhold": []
     }
