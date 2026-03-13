@@ -9,10 +9,10 @@
       "createdAt": 1773413538076,
       "expiresAt": 1773473538076,
       "votes": {
-        "favor": [
+        "favor": [],
+        "against": [
           "1"
         ],
-        "against": [],
         "withhold": []
       }
     },
