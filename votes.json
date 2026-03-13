@@ -37,11 +37,10 @@
       "votes": {
         "favor": [
           "65",
-          "76"
-        ],
-        "against": [
+          "76",
           "1"
         ],
+        "against": [],
         "withhold": []
       }
     }
