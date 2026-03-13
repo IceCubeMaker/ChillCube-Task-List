@@ -1,6 +1,20 @@
 {
   "polls": [
     {
+      "id": 1773413538076,
+      "title": "Ketchup vs Mayo",
+      "creator": "1",
+      "threshold": "1/2",
+      "status": "open",
+      "createdAt": 1773413538076,
+      "expiresAt": 1773473538076,
+      "votes": {
+        "favor": [],
+        "against": [],
+        "withhold": []
+      }
+    },
+    {
       "id": 1773364812524,
       "title": "Pineapple on Pizza",
       "creator": "6",
